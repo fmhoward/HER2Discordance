@@ -16,7 +16,7 @@ If you use this code in your work or find it helpful, please consider citing our
 The associated Jupyter notebook can be downloaded and all relevant code is provided within the notebook.
 
 Requirements:
-* python 3.8.8
+* python 3.9.12
 * pandas 1.0.5
 * numpy 1.19.0
 * tableone 0.7.10
