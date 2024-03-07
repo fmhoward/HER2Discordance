@@ -2,6 +2,7 @@
 This study evaluates efficacy of HER2-targeted therapy in cases with rare in situ hybridization patterns and discordant immunohistochemistry
 
 <img src="https://github.com/fmhoward/HER2Discordance/blob/main/her2_subgroups_pcr.png?raw=true" width="800">
+
 ## Attribution
 If you use this code in your work or find it helpful, please consider citing our repository (paper is pending).
 ```
